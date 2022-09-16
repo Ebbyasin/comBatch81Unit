@@ -25,10 +25,13 @@ public class C01_MavenlikTest {
      */
         //1- https://www.amazon.com/ sayfasina gidelim
         driver.get("https://amazon.com");
+
         //2- arama kutusunu locate edelim
         WebElement aramaKutusu = driver.findElement(By.id("twotabsearchtextbox"));
+
         //3- “Samsung headphones” ile arama yapalim
         aramaKutusu.sendKeys("Samsung headphones", Keys.ENTER);
+
         //4- Bulunan sonuc sayisini yazdiralim
         //WebElement sonucYazisi = driver.findElement(By.xpath("(//*[@class='a-section a-spacing-small a-spacing-top-small'])[1]"));
         //System.out.println(sonucYazisi.getText());
