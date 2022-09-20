@@ -52,7 +52,7 @@ public class C02_Allerts {
     }
     @After
     public void tearDown(){
-        //driver.close();
+        driver.close();
     }
     @Test
     public void test1() throws InterruptedException {
