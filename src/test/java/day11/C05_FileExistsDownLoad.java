@@ -8,7 +8,7 @@ import utilities.TestBaseBeforeAfter;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class C05_FileExists extends TestBaseBeforeAfter {
+public class C05_FileExistsDownLoad extends TestBaseBeforeAfter {
     @Test
     public void test1() throws InterruptedException {
         //https://the-internet.herokuapp.com/download adresine gidelim.
