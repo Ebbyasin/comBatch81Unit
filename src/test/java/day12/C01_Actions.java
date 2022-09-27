@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
-import utilities.TestBaseBeforeAfter;
+import Odevler.utilities.TestBaseBeforeAfter;
 
 public class C01_Actions extends TestBaseBeforeAfter {
 

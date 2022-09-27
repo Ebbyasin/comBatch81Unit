@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import utilities.TestBaseBeforeAfter;
+import Odevler.utilities.TestBaseBeforeAfter;
 
 public class C02_FileExistsDownLoad extends TestBaseBeforeAfter {
 

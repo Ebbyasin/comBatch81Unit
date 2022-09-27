@@ -1,7 +1,7 @@
 package day13;
 
 import org.junit.Test;
-import utilities.TestBaseBeforeAfter;
+import Odevler.utilities.TestBaseBeforeAfter;
 
 public class C03_WeTables extends TestBaseBeforeAfter {
 
@@ -27,6 +27,8 @@ public class C03_WeTables extends TestBaseBeforeAfter {
     Basligin altindaki verilere <tbody> tag'i ile altindaki satirlara(row) <tr> tag'i ile
     sutunlara yani hucrelere<td> tag'i ile ulasilir.
     */
+
+
 
 
 
